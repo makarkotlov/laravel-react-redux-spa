@@ -1,0 +1,36 @@
+{
+    "authHost": "http://reacttask.locs",
+    "authEndpoint": "/broadcasting/auth",
+    "clients": [
+        {
+            "appId": "bc377e75f55ceffa",
+            "key": "c5b61628fa7806e073e7cf599db9a670"
+        }
+    ],
+    "database": "redis",
+    "databaseConfig": {
+        "redis": {},
+        "sqlite": {
+            "databasePath": "/database/laravel-echo-server.sqlite"
+        }
+    },
+    "devMode": true,
+    "host": null,
+    "port": "6001",
+    "protocol": "http",
+    "socketio": {},
+    "sslCertPath": "",
+    "sslKeyPath": "",
+    "sslCertChainPath": "",
+    "sslPassphrase": "",
+    "subscribers": {
+        "http": true,
+        "redis": true
+    },
+    "apiOriginAllow": {
+        "allowCors": false,
+        "allowOrigin": "",
+        "allowMethods": "",
+        "allowHeaders": ""
+    }
+}
