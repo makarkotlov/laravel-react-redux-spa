@@ -25,12 +25,14 @@ class AuthServiceProvider extends ServiceProvider
     {
         $this->registerPolicies();
 
-        Gate::define('access_admin_page', function ($user) {
-            if($user->is_admin == 1)
-            {
-                return true;
-            }
-            return false;
-        });
+        Passport::routes();
+        
+        // Gate::define('access_admin_page', function ($user) {
+        //     if($user->is_admin == 1)
+        //     {
+        //         return true;
+        //     }
+        //     return false;
+        // });
     }
 }
