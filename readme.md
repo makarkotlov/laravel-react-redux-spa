@@ -1,8 +1,8 @@
 <h1>Task management SPA with React-Redux and Laravel.</h1>
 <ul>
-    <li>Laravel Echo broadcasting, laravel-echo-server and Redis for real time expirience.</li>
-    <li>Responsive Materialize CSS layout.</li>
-    <li>MySQL.</li>
+    <li>Laravel-echo-server, Redis.</li>
+    <li>Materialize CSS.</li>
+    <li>MySQL database.</li>
     <li>JWT authentication.</li>
     <li>React-Redux.</li>
 </ul>    
