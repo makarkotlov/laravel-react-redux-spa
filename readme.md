@@ -12,14 +12,10 @@
     <li>composer install</li>
     <li>npm install</li>
     <li>npm install -g laravel-echo-server</li>
-    <li>npm install pm2 -g (background tasks)</li>
     <li>create .env file</li>
     <li>php artisan key:generate</li>
     <li>php artisan migrate</li>
-    <li>php artisan storage:link</li>
-    <li>laravel-echo-server init (use https for browser push notifications)</li>
-    <li>chmod 755 public/js/sw.js</li>
-    <li>chown root:www-data public/js/sw.js</li>
+    <li>laravel-echo-server init</li>
 </ul>
 
 <h1>Developer Run</h1>
