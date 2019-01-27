@@ -12,7 +12,7 @@
     <li>composer install</li>
     <li>npm install</li>
     <li>npm install -g laravel-echo-server</li>
-    <li>create .env file</li>
+    <li>create .env file from .env.example</li>
     <li>php artisan key:generate</li>
     <li>php artisan jwt:secret</li>
     <li>php artisan migrate</li>
