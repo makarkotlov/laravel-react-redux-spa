@@ -14,6 +14,7 @@
     <li>npm install -g laravel-echo-server</li>
     <li>create .env file</li>
     <li>php artisan key:generate</li>
+    <li>php artisan jwt:secret</li>
     <li>php artisan migrate</li>
     <li>laravel-echo-server init</li>
 </ul>
