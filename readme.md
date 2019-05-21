@@ -3,7 +3,7 @@
     <li>Laravel-echo-server, Redis.</li>
     <li>Materialize CSS.</li>
     <li>MySQL database.</li>
-    <li>JWT authentication.</li>
+    <li>Laravel Passport.</li>
     <li>React-Redux.</li>
 </ul>    
 
@@ -14,7 +14,6 @@
     <li>npm install -g laravel-echo-server</li>
     <li>create .env file from .env.example</li>
     <li>php artisan key:generate</li>
-    <li>php artisan jwt:secret</li>
     <li>php artisan migrate</li>
     <li>laravel-echo-server init</li>
 </ul>
