@@ -1,4 +1,4 @@
-<h1>Task management SPA with React-Redux and Laravel.</h1>
+<h1>Task management SPA with React/Redux and Laravel.</h1>
 <ul>
     <li>Laravel-echo-server, Redis.</li>
     <li>Materialize CSS.</li>
