@@ -10,9 +10,9 @@
 <h1>Install</h1>
 <ul>
     <li>composer install</li>
-    <li>npm install</li>
-    <li>npm install -g laravel-echo-server</li>
-    <li>create .env file from .env.example</li>
+    <li>npm i</li>
+    <li>npm i -g laravel-echo-server</li>
+    <li>Create .env file from .env.example</li>
     <li>php artisan key:generate</li>
     <li>php artisan migrate</li>
     <li>laravel-echo-server init</li>
